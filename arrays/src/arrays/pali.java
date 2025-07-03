@@ -21,6 +21,7 @@ public class pali {
 			System.out.println("palindrome");
 		}else {
 			System.out.println("not palindrome");
+			System.out.println("not");
 		}
 		
 		

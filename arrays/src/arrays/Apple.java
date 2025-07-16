@@ -26,6 +26,8 @@ public class Apple {
         String str11=new String(e);
         System.out.println(str11);
         System.out.println(str==str2);
+        System.out.println(str.concat(str2));
+        
 
 
 }
